@@ -1,3 +1,4 @@
+#Eric De Lucas Silva
 import openai
 
 openai.api_key = "sua API"
